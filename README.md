@@ -12,14 +12,14 @@ ssh p2p tunneling server and client
 - RTCDataChannel/WebRTC
 - signaling server: https://signaling.futurnet.net/
 
-  src: [signaling/server](https://github.com/nobonobo/p2pfw/tree/master/signaling/server)
+  src: [signaling/server](https://github.com/arsasm/p2pfw/tree/master/signaling/server)
 
 thx! https://github.com/keroserene/go-webrtc
 
 # install
 
 ```sh
-$ go get -u github.com/nobonobo/ssh-p2p
+$ go get -u github.com/arsasm/ssh-p2p
 ```
 
 # usage

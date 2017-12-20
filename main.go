@@ -10,9 +10,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/nobonobo/p2pfw/peerconn"
-	"github.com/nobonobo/p2pfw/signaling/client"
-	"github.com/nobonobo/webrtc"
+	"github.com/arsasm/p2pfw/peerconn"
+	"github.com/arsasm/p2pfw/signaling/client"
+	"github.com/arsasm/webrtc"
 )
 
 const usage = `Usage: ssh-p2p SUBCMD [options]
